@@ -1,0 +1,10 @@
+
+
+[[https://plot.ly/python/offline/][Offline Plots in Plotly in Python]]
+
+Plotly Offline
+version 1.9.x or higher
+
+#+BEGIN_SRC python
+from plotly import __version__
+#+END_SRC
